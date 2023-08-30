@@ -8,7 +8,6 @@
   "url": "https://github.com/hholle/addon-warema-wms-holle",
   "boot": "auto",
   "hassio_api": true,
-  "image": "hholle/addon-warema-bridge-custom",
   "options": {
     "wms_serial_port": null
   },

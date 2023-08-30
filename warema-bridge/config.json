@@ -1,14 +1,14 @@
 {
-  "name": "Warema Bridge",
-  "version": "dev",
+  "name": "Warema Bridge Custom",
+  "version": "0.1.0",
   "slug": "warema-bridge",
   "description": "Control your Warema WMS system",
   "arch": ["aarch64", "amd64", "armv7", "i386"],
   "startup": "services",
-  "url": "https://github.com/giannello/addon-warema-bridge",
+  "url": "https://github.com/hholle/addon-warema-wms-holle",
   "boot": "auto",
   "hassio_api": true,
-  "image": "giannello/addon-warema-bridge",
+  "image": "hholle/addon-warema-bridge-custom",
   "options": {
     "wms_serial_port": null
   },
